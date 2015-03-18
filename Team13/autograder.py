@@ -5,7 +5,7 @@ import pdb
 from pprint import pprint
 from collections import Counter
 
-from parse import retrieveRecipe as student
+from parse import getRecipe as student
 TEAM = 13 # enter your team number here
 
 def check_tools(answer, stud):
